@@ -27,6 +27,10 @@ body{
 .iconos{
     color: #ffffff;
 }
+.tooltip.bs-tooltip-auto .tooltip-inner{
+    background-color: #ffffff;
+    color: #000000;
+}
 .footIcon{
     display: flex;
     justify-content: center;
