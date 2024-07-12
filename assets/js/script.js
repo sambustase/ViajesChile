@@ -17,7 +17,7 @@
     // document.getElementById("#submitMessage");
     $("#submitMessage").click(function(){
         alert("Mensaje enviado");
-
+        console.log("Mensaje enviado");
     });
 
     // Desaparecer texto al hacer click en icono
